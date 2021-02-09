@@ -1,3 +1,5 @@
+
+Threw this gitlab repo on github so I can use it and modify it asI want
 # Ultrasound B-mode Imaging with Neural Networks
 <img src="examples/example_PICMUS.png" width="600">
 <img src="examples/example_invivo_liver.png" width="1000">
@@ -51,5 +53,3 @@ pages={898-910},
 doi={10.1109/TUFFC.2019.2903795}, 
 ISSN={0885-3010}, 
 month={May},}
-```
-# Can-I-Shop-2
