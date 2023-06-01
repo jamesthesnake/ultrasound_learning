@@ -1,5 +1,4 @@
 
-Threw this gitlab repo on github so I can use it and modify it asI want
 # Ultrasound B-mode Imaging with Neural Networks
 <img src="examples/example_PICMUS.png" width="600">
 <img src="examples/example_invivo_liver.png" width="1000">
